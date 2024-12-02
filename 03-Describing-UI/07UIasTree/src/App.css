@@ -1,0 +1,7 @@
+#root {
+  background-color: rgb(41, 41, 41);
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
